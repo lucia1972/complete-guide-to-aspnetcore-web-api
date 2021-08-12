@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "triVAyDiOHSR6ENGto1akW57yCtv0sAiccgwGydh/xvqwPAg8OLqb1EJ9SZwSochpocjd2G4W4lk946iVtRFeA==",
+  "dgSpecHash": "EF8KUp2ZD+4kexpvZa9cWKkZ0hGjEOG/UXLLItzdkEjkXxuCD9zQCfhaNElc54tez31Ta0Gjd3TYov1/6D+v5Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\lnegr\\source\\repos\\my-books\\my-books\\my-books.csproj",
+  "projectFilePath": "C:\\Users\\lnegr\\Source\\Repos\\complete-guide-to-aspnetcore-web-api\\my-books\\my-books.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\lnegr\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\lnegr\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
